@@ -1,2 +1,2 @@
-# bayesian-inference-with-python
-Collection of examples Bayesian inference in Python
+# Bayesian Inference with Python
+Collection of examples for Bayesian inference in Python
