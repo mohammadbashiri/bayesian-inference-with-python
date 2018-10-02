@@ -1,1 +1,5 @@
-.
+slides
+*.pyc
+*.pyd
+.idea
+.ipynb_checkpoints
